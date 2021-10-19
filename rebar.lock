@@ -1,0 +1,8 @@
+{"1.2.0",
+[{<<"rationals">>,{pkg,<<"rationals">>,<<"0.2.0">>},0}]}.
+[
+{pkg_hash,[
+ {<<"rationals">>, <<"1B6DE9A0EEAB2317A96393E0F87B84A5E29442A49609BF168F5BC4B63EAB84ED">>}]},
+{pkg_hash_ext,[
+ {<<"rationals">>, <<"46D720591F974630903BD6252FAEDA1DA9E541CCC71A58C1B69F295599E2A6EE">>}]}
+].
